@@ -1,6 +1,6 @@
 {
   "name": "basic-math",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm package which containts basic mathematics functions",
   "main": "bin/main.js",
   "bin": {
